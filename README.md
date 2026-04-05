@@ -87,9 +87,14 @@ python app.py
 ---
 
 ## 📊 Model Performance
-- Accuracy: (add your value)
-- Precision: (add your value)
-- Recall: (add your value)
+- Accuracy: 89%
+
+| Metric    | Class "CG" | Class "OR" | Macro Avg | Weighted Avg |
+|-----------|------------|------------|-----------|--------------|
+| Precision | 0.86       | 0.92       | 0.89      | 0.89         |
+| Recall    | 0.93       | 0.85       | 0.89      | 0.89         |
+| F1-Score  | 0.90       | 0.89       | 0.89      | 0.89         |
+| Support   | 3074       | 2991       | -         | 6065         |
 
 ---
 
