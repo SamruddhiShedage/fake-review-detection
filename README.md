@@ -29,6 +29,8 @@ This project is a **Fake Review Detection System** that uses Machine Learning te
 ---
 
 ## 📂 Project Structure
+
+```
 fake_review_detection/
 │
 ├── model.py
@@ -41,6 +43,7 @@ fake_review_detection/
 │   ├── fake reviews dataset.csv
 │   ├── nb_model.pkl
 │   └── scaler.pkl
+```
 
 
 
