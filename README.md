@@ -5,7 +5,7 @@ This project is a **Fake Review Detection System** that uses Machine Learning te
 
 ---
 
-## 🚀 Features
+##🚀 Features
 - Detects fake vs genuine reviews
 - Machine Learning-based classification
 - Model evaluation using accuracy, precision, recall
